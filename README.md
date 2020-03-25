@@ -29,7 +29,7 @@ Customize the background color and text/link colors by modifying the hexidecimal
 	background: #00a0dc;
 	color: #fff;
 	width: 100%;
-	padding: 5px 10px;
+	padding: 15px;
 	font-size: 16px;
 	text-align: center;
 	font-weight: bold;
