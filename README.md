@@ -30,14 +30,15 @@ Customize the background color and text/link colors by modifying the hexidecimal
 	color: #fff;
 	width: 100%;
 	padding: 5px 10px;
-	font-size: 22px;
+	font-size: 16px;
 	text-align: center;
 	font-weight: bold;
+	font-family: Inter, sans-serif;
 }
 .covid-alert a {
 	color: #fff;
-    text-decoration: underline;
-    font-weight: 400;
+  text-decoration: underline;
+  font-weight: 400;
 }
 ```
 
